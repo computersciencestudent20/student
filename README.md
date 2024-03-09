@@ -1,2 +1,2 @@
 # student
-cim polytechnic 
+cim polytechnic computer science
